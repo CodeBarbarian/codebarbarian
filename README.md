@@ -43,7 +43,7 @@ Operations is my forte, but trying to progress more towards infrastructure as co
   <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
-📈 **My GitHub Stats:**
+### 📈My GitHub Stats:
 
 <!--START_SECTION:waka-->
 ```text
