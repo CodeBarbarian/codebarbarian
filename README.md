@@ -7,7 +7,7 @@
 ### Glad to see you on here! 
 
 
-** Talking about personal stuff **
+**Talking about personal stuff:**
 - 🔭 I’m currently working on something awesome!
 - 🌱 I’m currently learning Micro Service Architecture using NodeJS and Docker!
 - 👯 I’m looking to collaborate on something which has something to do with space! 
