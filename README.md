@@ -11,7 +11,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 - 🔭 I’m currently working on something awesome!
 - 🌱 I’m currently learning Micro Service Architecture using NodeJS and Docker!
 - 👯 I’m looking to collaborate on something which has something to do with space! 
-- 🤔 I’m looking for help with ideas! 
+- 🤔 I’m looking for help with ideas and projects! 
 - 📫 How to reach me: [@codebarbarian](https://twitter.com/codebarbarian)
 
 
