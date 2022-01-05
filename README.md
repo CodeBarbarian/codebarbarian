@@ -4,11 +4,12 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codebarbarian.no/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/codebarbarian)
 
+### Glad to see you on here! 
 
-Here are some ideas to get you started:
 
+** Talking about personal stuff **
 - 🔭 I’m currently working on something awesome!
-- 🌱 I’m currently learning Micro Service Architecture using NodeJS!
+- 🌱 I’m currently learning Micro Service Architecture using NodeJS and Docker!
 - 👯 I’m looking to collaborate on something which has something to do with space! 
 - 🤔 I’m looking for help with ideas! 
 - 📫 How to reach me: [@codebarbarian](https://twitter.com/codebarbarian)
