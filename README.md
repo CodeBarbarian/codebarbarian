@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codebarbarian.no/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/codebarbarian)
 #
-Operations is my forte, but trying to progress more towards DevSecOps!
+Operations is my forte, but trying to progress more towards using infrastructure as code! 
 #
 
 **Talking about personal stuff:**
