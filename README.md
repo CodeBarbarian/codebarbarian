@@ -47,7 +47,8 @@ Operations is my forte, but trying to progress more towards using infrastructure
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   23 mins         ██████████████████▒░░░░░░   72.69 % 
+YAML       8 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
 ```
 <!--END_SECTION:waka-->
 
