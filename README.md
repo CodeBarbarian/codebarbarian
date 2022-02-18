@@ -46,7 +46,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 ### 📈My GitHub Stats:
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -122,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2022 18:38:24 UTC
+ Last Updated on 18/02/2022 18:38:16 UTC
 <!--END_SECTION:waka-->
 
 <p>
