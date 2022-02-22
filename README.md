@@ -89,17 +89,16 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-PowerShell               7 mins              █████████████████████████   99.87% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -120,7 +119,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2022 18:37:54 UTC
+ Last Updated on 22/02/2022 18:38:46 UTC
 <!--END_SECTION:waka-->
 
 <p>
