@@ -8,8 +8,8 @@ Operations is my forte, but trying to progress more towards using infrastructure
 #
 
 **Talking about personal stuff:**
-- 🔭 I’m currently working on something awesome!
-- 🌱 I’m currently learning Micro Service Architecture using NodeJS and Docker!
+- 🔭 I’m currently working on my very own PHP Framework!
+- 🌱 I’m currently learning System Design Principles by building my own framework!
 - 👯 I’m looking to collaborate on something which has something to do with space! 
 - 🤔 I’m looking for help with ideas and projects! 
 - 📫 How to reach me: [@codebarbarian](https://twitter.com/codebarbarian)
