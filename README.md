@@ -46,7 +46,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 ### 📈My GitHub Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -54,7 +54,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 
 > 🏆 134 Contributions in the Year 2022
  > 
-> 📦 139.2 kB Used in GitHub's Storage 
+> 📦 139.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,6 +91,7 @@ Sunday       14 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
@@ -121,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:45:27 UTC
+ Last Updated on 12/05/2022 18:42:03 UTC
 <!--END_SECTION:waka-->
 
 <p>
