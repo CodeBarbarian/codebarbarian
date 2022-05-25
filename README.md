@@ -48,17 +48,17 @@ Operations is my forte, but trying to progress more towards using infrastructure
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 146 Contributions in the Year 2022
+> 🏆 147 Contributions in the Year 2022
  > 
 > 📦 155.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 17 Private Repositories  
  > 
@@ -91,19 +91,20 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-HTML                     2 hrs 37 mins       █████████████░░░░░░░░░░░░   52.74% 
-PHP                      2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.35% 
-GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+HTML                     3 hrs 24 mins       ██████████████░░░░░░░░░░░   58.0% 
+PHP                      2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   39.39% 
+GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
 🔥 Editors: 
-PhpStorm                 4 hrs 58 mins       █████████████████████████   100.0%
+PhpStorm                 5 hrs 53 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-helpdesk-system          4 hrs 58 mins       █████████████████████████   100.0%
+helpdesk-system          5 hrs 17 mins       ██████████████████████░░░   90.02% 
+converter                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.98%
 
 💻 Operating System: 
-Windows                  4 hrs 58 mins       █████████████████████████   100.0%
+Windows                  5 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +125,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 18:41:25 UTC
+ Last Updated on 25/05/2022 18:42:00 UTC
 <!--END_SECTION:waka-->
 
 <p>
