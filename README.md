@@ -91,20 +91,16 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-PHP                      12 mins             ████████████████░░░░░░░░░   65.25% 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
-HTML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.89%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-metamorphosis            12 mins             █████████████████░░░░░░░░   67.79% 
-helpdesk-system          4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.51% 
-converter                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:38:55 UTC
+ Last Updated on 13/06/2022 18:41:45 UTC
 <!--END_SECTION:waka-->
 
 <p>
