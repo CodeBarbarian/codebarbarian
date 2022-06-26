@@ -48,7 +48,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,17 +91,17 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-PHP                      5 mins              ███████████████████░░░░░░   76.8% 
-GitIgnore file           1 min               █████░░░░░░░░░░░░░░░░░░░░   23.2%
+PHP                      2 mins              ██████████████░░░░░░░░░░░   57.45% 
+GitIgnore file           1 min               ██████████░░░░░░░░░░░░░░░   42.55%
 
 🔥 Editors: 
-PhpStorm                 7 mins              █████████████████████████   100.0%
+PhpStorm                 4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CertMon                  7 mins              █████████████████████████   100.0%
+CertMon                  4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+Windows                  4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 18:38:55 UTC
+ Last Updated on 26/06/2022 18:39:06 UTC
 <!--END_SECTION:waka-->
 
 <p>
