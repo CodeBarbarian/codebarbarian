@@ -48,7 +48,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -127,7 +127,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2022 18:39:39 UTC
+ Last Updated on 10/07/2022 18:39:16 UTC
 <!--END_SECTION:waka-->
 
 <p>
