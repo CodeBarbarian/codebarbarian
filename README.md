@@ -54,7 +54,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 
 > 🏆 196 Contributions in the Year 2022
  > 
-> 📦 157.7 kB Used in GitHub's Storage 
+> 📦 157.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +91,16 @@ Sunday       32 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-PowerShell               24 mins             ███████████████░░░░░░░░░░   59.93% 
-PHP                      14 mins             █████████░░░░░░░░░░░░░░░░   36.68% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             ███████████████░░░░░░░░░░   63.03% 
-PhpStorm                 14 mins             █████████░░░░░░░░░░░░░░░░   36.97%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pssec                    25 mins             ███████████████░░░░░░░░░░   63.03% 
-metamorphosis            14 mins             █████████░░░░░░░░░░░░░░░░   36.97%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -126,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 18:40:55 UTC
+ Last Updated on 15/07/2022 18:41:30 UTC
 <!--END_SECTION:waka-->
 
 <p>
