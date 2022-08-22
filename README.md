@@ -52,6 +52,8 @@ Operations is my forte, but trying to progress more towards using infrastructure
 
 **🐱 My GitHub Data** 
 
+> 🏆 294 Contributions in the Year 2022
+ > 
 > 📦 183.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -89,22 +91,16 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-YAML                     1 hr 8 mins         ████████████░░░░░░░░░░░░░   49.03% 
-PHP                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26% 
-Docker                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-SmartyConfig             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 1 hr 42 mins        ██████████████████░░░░░░░   73.89% 
-VS Code                  36 mins             ██████░░░░░░░░░░░░░░░░░░░   26.11%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CertMon                  1 hr 40 mins        ██████████████████░░░░░░░   71.89% 
-metamorphosis            39 mins             ███████░░░░░░░░░░░░░░░░░░   28.11%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/08/2022 18:42:26 UTC
+ Last Updated on 22/08/2022 18:43:37 UTC
 <!--END_SECTION:waka-->
 
 <p>
