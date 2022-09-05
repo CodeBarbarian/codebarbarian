@@ -46,7 +46,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 ### 📈My GitHub Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,6 +62,48 @@ Operations is my forte, but trying to progress more towards using infrastructure
  > 
 > 🔑 17 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+🌆 Daytime    131 commits    █████████░░░░░░░░░░░░░░░░   36.39% 
+🌃 Evening    144 commits    ██████████░░░░░░░░░░░░░░░   40.0% 
+🌙 Night      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+Tuesday      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Wednesday    89 commits     ██████░░░░░░░░░░░░░░░░░░░   24.72% 
+Thursday     34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+Friday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Sunday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Oslo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -79,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:40:37 UTC
+ Last Updated on 05/09/2022 18:42:04 UTC
 <!--END_SECTION:waka-->
 
 <p>
