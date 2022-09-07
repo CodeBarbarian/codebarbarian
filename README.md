@@ -54,7 +54,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 
 > 🏆 294 Contributions in the Year 2022
  > 
-> 📦 183.6 kB Used in GitHub's Storage 
+> 📦 183.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 18:41:54 UTC
+ Last Updated on 07/09/2022 18:44:49 UTC
 <!--END_SECTION:waka-->
 
 <p>
