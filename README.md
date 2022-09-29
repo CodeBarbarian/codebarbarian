@@ -46,7 +46,7 @@ Operations is my forte, but trying to progress more towards using infrastructure
 ### 📈My GitHub Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -123,7 +123,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/09/2022 18:45:39 UTC
+ Last Updated on 29/09/2022 18:44:47 UTC
 <!--END_SECTION:waka-->
 
 <p>
