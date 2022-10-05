@@ -91,18 +91,16 @@ Sunday       56 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Markdown                 15 mins             █████████████████████████   99.94% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   99.94% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PassMon                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -123,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/CodeBarbarian/CodeBarbarian/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 18:46:24 UTC
+ Last Updated on 05/10/2022 18:49:27 UTC
 <!--END_SECTION:waka-->
 
 <p>
